@@ -37,6 +37,10 @@ color: rgb(210, 90, 195) !important;
 .id-6 span.un.clickable, #user-lists .list.room .id-6 .name, #user-lists .list.room .is-ambassador.id-6 .name, #user-lists .list.room .is-staff.id-6 .name, #user-lists .list.room .is-dj.id-6 .name, #user-lists .list.room .is-subscriber.id-6 .name, #user-lists .list.room [class*='role'].id-6 .name {
 color: #42a5dc !important;
 }
+.id-3604577 span.un.clickable, #user-lists .list.room .id-3604577 .name, #user-lists .list.room .is-ambassador.id-3604577 .name, #user-lists .list.room .is-staff.id-3604577 .name, #user-lists .list.room .is-dj.id-3604577 .name, #user-lists .list.room .is-subscriber.id-3604577 .name, #user-lists .list.room [class*='role'].id-3604577 .name,
+.id-6 span.un.clickable, #user-lists .list.room .id-6 .name, #user-lists .list.room .is-ambassador.id-6 .name, #user-lists .list.room .is-staff.id-6 .name, #user-lists .list.room .is-dj.id-6 .name, #user-lists .list.room .is-subscriber.id-6 .name, #user-lists .list.room [class*='role'].id-6 .name {
+color: #42a5dc !important;
+}
 .id-3602201 span.un.clickable, #user-lists .list.room .id-3602201 .name, #user-lists .list.room .is-ambassador.id-3602201 .name, #user-lists .list.room .is-staff.id-3602201 .name, #user-lists .list.room .is-dj.id-3602201 .name, #user-lists .list.room .is-subscriber.id-3602201 .name, #user-lists .list.room [class*='role'].id-3602201 .name,
 .id-4789330 span.un.clickable, #user-lists .list.room .id-4789330 .name, #user-lists .list.room .is-ambassador.id-4789330 .name, #user-lists .list.room .is-staff.id-4789330 .name, #user-lists .list.room .is-dj.id-4789330 .name, #user-lists .list.room .is-subscriber.id-4789330 .name, #user-lists .list.room [class*='role'].id-4789330 .name,
 .id-2 span.un.clickable, #user-lists .list.room .id-2 .name, #user-lists .list.room .is-ambassador.id-2 .name, #user-lists .list.room .is-staff.id-2 .name, #user-lists .list.room .is-dj.id-2 .name, #user-lists .list.room .is-subscriber.id-2 .name, #user-lists .list.room [class*='role'].id-2 .name {
