@@ -185,6 +185,18 @@ display:none !important;
 } 
 #chat-messages .from.ambassador .icon.icon-chat-silver-subscriber, #chat-messages .from.ambassador .icon.icon-chat-subscriber, #chat-messages .from.ambassador.has-staff .icon.icon-chat-ambassador, #chat-messages .from.dj .icon.icon-chat-silver-subscriber, #chat-messages .from.dj .icon.icon-chat-subscriber, #chat-messages .from.staff .icon.icon-chat-silver-subscriber, #chat-messages .from.staff .icon.icon-chat-subscriber {
     margin-right: 1px;
+}
+
+#user-rollover .info .role i {
+    position: relative;
+    float: left;
+    margin-top: 2px;
+}
+.icon-chat-ambassador, .icon-chat-leader, .icon-chat-volunteer {
+    background-position: 0px -350px;
+    width: 15px;
+    height: 15px;
+
     
 } */
 #user-rollover.id-4249648 .username,
