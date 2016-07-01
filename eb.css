@@ -8,7 +8,7 @@
     width: 31px;
     height: 31px;
 }
-
+/*
 #playback-container {
     background-image: url();
     background-position: center;
@@ -164,7 +164,7 @@
 #chat .icon .icon-p3 {
     background-image: url('') !important;
 }
-
+/*
 .icon-chat-ambassador + span {
     color: #89be6c !important;
 }
@@ -199,7 +199,7 @@
 
 #chat .moderation, #chat .moderation .from .un{
     color: #01e1ff;
-}
+} 
 
 #chat .message:hover #chat .emote:hover #chat .update:hover {
     -moz-transition: 100ms linear 50ms;
