@@ -1,0 +1,39 @@
+{
+	"room": "Farofa Pop",
+	"css": "https://rawgit.com/PrincessDie/farofatheme/master/frf.css",
+	"rules": {
+            "allowAutorespond":     true,
+            "allowAutowoot":        true,
+            "allowAutojoin":        false,
+            "allowAutograb":        true,
+            "allowSmartVote":       true,
+            "allowEmotes":          true,
+            "allowShowingMehs":     true,
+            "forceSmartVote":       false
+	},
+	"ccc": {
+	    "ambassador": "#89be6c !important",
+	    "bouncer": "#ac76ff",
+	    "cohost": "#ac76ff",
+	    "rdj": "#ac76ff",
+	    "host": "#ac76ff",
+	    "manager": null,
+	    "admin": null,
+	    "subscriber": null,
+	    "friend": null,
+	    "user": null
+	},
+	"images": {
+	    "background": "http://i.imgur.com/q6Jtusl.png",
+	    "playback": null,
+	    "admin": null,
+	    "ambassador": null,
+	    "host": null,
+	    "cohost": null,
+	    "manager": null,
+	    "bouncer": null,
+	    "rdj": null, 
+	    "silversubscriber": null,
+	    "subscriber": null
+	}
+}
