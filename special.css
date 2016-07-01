@@ -147,7 +147,7 @@ display:none !important;
 [data-cid^="6-"] .msg .from .icon-chat-subscriber, #user-lists .list.room .id-6 .icon-chat-subscriber {
     background: url("https://cdn.radiant.dj/rcs/icons/radiant/origin_subscriber.png") !important;
 }
-[data-cid^="4249648-"] .msg .from .icon-chat-dj, #user-lists .list.room .id-4249648 .icon-chat-dj, #user-rollover.is-staff .info .role,
+[data-cid^="4249648-"] .msg .from .icon-chat-dj, #user-lists .list.room .id-4249648 .icon-chat-dj,
 [data-cid^="3604577-"] .msg .from .icon-chat-dj, #user-lists .list.room .id-3604577 .icon-chat-dj,
 [data-cid^="4453331-"] .msg .from .icon-chat-dj, #user-lists .list.room .id-4453331 .icon-chat-dj,
 [data-cid^="6-"] .msg .from .icon-chat-dj, #user-lists .list.room .id-6 .icon-chat-dj {
@@ -191,6 +191,14 @@ display:none !important;
     position: relative;
     float: left;
     margin-top: 2px;
+}
+[data-cid^="4249648-"] .msg .from .icon-chat-dj, #user-rollover .icon-chat-dj .id-4249648, .icon-chat-leader, .icon-chat-volunteer {
+    background: url("https://cdn.radiant.dj/rcs/icons/radiant/admin.png") !important;
+    width: 15px;
+    height: 15px;
+}
+#user-rollover.is-staff .info .role span {
+    color: #42a5dc;
 
 }
     
