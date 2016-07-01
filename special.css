@@ -193,7 +193,7 @@ display:none !important;
     margin-top: 2px;
 }
 .icon-chat-dj, .icon-chat-host, .icon-chat-cohost, .icon-chat-leader, .icon-chat-volunteer {
-    background-position: 0px -350px;
+    background: url("https://cdn.radiant.dj/rcs/icons/radiant/admin.png") !important;
     width: 15px;
     height: 15px;
 }
