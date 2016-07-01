@@ -138,7 +138,8 @@ display:none !important;
 #chat .msg .text .name.id-2,
 #chat .msg .text .name.id-2 .name {
     color: #42a5dc !important;
-}
+} */
+
 /* FU RELATED CSS */
 [data-cid^="4249648-"] .msg .from .icon-chat-subscriber, #user-lists .list.room .id-4249648 .icon-chat-subscriber,
 [data-cid^="3604577-"] .msg .from .icon-chat-subscriber, #user-lists .list.room .id-3604577 .icon-chat-subscriber,
