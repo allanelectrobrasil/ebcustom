@@ -1,0 +1,19 @@
+/* CUSTOM RDJs */
+.fromID-3862893 .msg .from .un:after,
+.id-3862893 .msg .from .un:after,
+.fromID-6603548 .msg .from .un:after,
+.id-6603548 .msg .from .un:after {
+    content: " "url("https://mitchdev.net/pdj/rdj.png") !important;
+    top: 3px;
+    position: relative;
+}
+#chat .fromID-3862893 .un,
+#chat .id-3862893 .un {
+    color: #89BE6C!important;
+}
+#chat .fromID-4538423 .un,
+#chat .id-4538423 .un,
+#chat .fromID-10587451 .un,
+#chat .id-10587451 .un {
+    color: #fff;
+}
