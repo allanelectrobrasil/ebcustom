@@ -192,7 +192,7 @@ display:none !important;
     float: left;
     margin-top: 2px;
 }
-[data-cid^="4249648-"] .msg .from .icon-chat-dj, #user-rollover .icon-chat-dj .id-4249648, .icon-chat-leader, .icon-chat-volunteer {
+.icon-chat-dj, .icon-chat-leader, .icon-chat-volunteer {
     background: url("https://cdn.radiant.dj/rcs/icons/radiant/admin.png") !important;
     width: 15px;
     height: 15px;
