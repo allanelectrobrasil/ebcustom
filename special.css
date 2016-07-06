@@ -37,7 +37,7 @@ color: rgb(210, 90, 195) !important;
 /* Devs */
 .id-4249648 span.un.clickable, #user-lists .list.room .id-4249648 .name, #user-lists .list.room .is-ambassador.id-4249648 .name, #user-lists .list.room .is-staff.id-4249648 .name, #user-lists .list.room .is-dj.id-4249648 .name, #user-lists .list.room .is-subscriber.id-4249648 .name, #user-lists .list.room [class*='role'].id-4249648 .name,
 .id-4453331 span.un.clickable, #user-lists .list.room .id-4453331 .name, #user-lists .list.room .is-ambassador.id-4453331 .name, #user-lists .list.room .is-staff.id-4453331 .name, #user-lists .list.room .is-dj.id-4453331 .name, #user-lists .list.room .is-subscriber.id-4453331 .name, #user-lists .list.room [class*='role'].id-4453331 .name,
-.id-3604577 span.un.clickable, #user-lists .list.room .id-3604577 .name, #user-lists .list.room .is-ambassador.id-3604577 .name, #user-lists .list.room .is-staff.id-3604577 .name, #user-lists .list.room .is-dj.id-6 .name, #user-lists .list.room .is-subscriber.id-3604577 .name, #user-lists .list.room [class*='role'].id-3604577 .name{
+.id-3604577 span.un.clickable, #user-lists .list.room .id-3604577 .name, #user-lists .list.room .is-ambassador.id-3604577 .name, #user-lists .list.room .is-staff.id-3604577 .name, #user-lists .list.room .is-dj.id-3604577 .name, #user-lists .list.room .is-subscriber.id-3604577 .name, #user-lists .list.room [class*='role'].id-3604577 .name{
 color: #42a5dc !important;
 }
 .id-3602201 span.un.clickable, #user-lists .list.room .id-3602201 .name, #user-lists .list.room .is-ambassador.id-3602201 .name, #user-lists .list.room .is-staff.id-3602201 .name, #user-lists .list.room .is-dj.id-3602201 .name, #user-lists .list.room .is-subscriber.id-3602201 .name, #user-lists .list.room [class*='role'].id-3602201 .name,
@@ -184,7 +184,7 @@ display:none !important;
     background: url("https://cdn.radiant.dj/rcs/icons/radiant/origin_ambassador.png") !important;
 } 
 #chat-messages .from.ambassador .icon.icon-chat-silver-subscriber, #chat-messages .from.ambassador .icon.icon-chat-subscriber, #chat-messages .from.ambassador.has-staff .icon.icon-chat-ambassador, #chat-messages .from.dj .icon.icon-chat-silver-subscriber, #chat-messages .from.dj .icon.icon-chat-subscriber, #chat-messages .from.staff .icon.icon-chat-silver-subscriber, #chat-messages .from.staff .icon.icon-chat-subscriber {
-    margin-right: 1px;
+    margin-right: 2px;
 }
 
 /*
@@ -205,7 +205,8 @@ display:none !important;
 } */
 #user-rollover.id-4249648 .username,
 #user-rollover.id-3604577 .username,
-#user-rollover.id-4453331 .username {
+#user-rollover.id-4453331 .username
+#user-rollover.id-6 .username{
     color: #42a5dc !important;
 }
 #chat .msg .text .id-4249648,
@@ -221,7 +222,4 @@ display:none !important;
 #chat .msg .text .name.id-6,
 #chat .msg .text .name.id-6 .name {{
     color: #42a5dc !important;
-}
-
-#user-lists .id-4249648.role-cohost.is-staff
 }
