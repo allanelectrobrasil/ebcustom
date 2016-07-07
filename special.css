@@ -227,3 +227,7 @@ display:none !important;
 #chat .msg .text .name.id-6 .name {{
     color: #42a5dc !important;
 }
+#user-rollover.id-4249648 .meta.subscriber.silver{
+    color: #c59840 !important;
+    background: url('https://cdn.plug.dj/_/static/images/icons.38f7ee77fd7ad2bc018b1a25fd4a1f0aaba5a4cd.png') -175px -365px;
+}
