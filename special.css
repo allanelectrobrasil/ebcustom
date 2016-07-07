@@ -227,7 +227,7 @@ display:none !important;
 #chat .msg .text .name.id-6 .name {{
     color: #42a5dc !important;
 }
-[data-cid^="4249648-"] #user-rollover .meta.subscriber.silver .status i {
+#user-rollover.id-4249648 .meta.subscriber.silver .status .i {
     background: url('https://cdn.radiant.dj/rcs/icons/radiant/origin_subscriber.png');
 }
 #user-rollover.is-admin.self.expand.chat.id-4249648.role-admin.role-none.role-subscriber
