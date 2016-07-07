@@ -182,8 +182,11 @@ display:none !important;
 [data-cid^="4453331-"] .msg .from .icon-chat-ambassador, #user-lists .list.room .id-4453331 .icon-chat-ambassador,
 [data-cid^="6-"] .msg .from .icon-chat-ambassador, #user-lists .list.room .id-6 .icon-chat-ambassador {
     background: url("https://cdn.radiant.dj/rcs/icons/radiant/origin_ambassador.png") !important;
-
 } 
+[data-cid^="4249648-"] .msg .from .icon-chat-silver-subscriber, #user-lists .list.room .id-4249648 .icon-chat-silver-subscriber {
+    background: url("https://cdn.radiant.dj/rcs/icons/radiant/origin_subscriber.png") !important;
+    
+}
 #chat-messages .from.ambassador .icon.icon-chat-silver-subscriber, #chat-messages .from.ambassador .icon.icon-chat-subscriber, #chat-messages .from.ambassador.has-staff .icon.icon-chat-ambassador, #chat-messages .from.dj .icon.icon-chat-silver-subscriber, #chat-messages .from.dj .icon.icon-chat-subscriber, #chat-messages .from.staff .icon.icon-chat-silver-subscriber, #chat-messages .from.staff .icon.icon-chat-subscriber {
     margin-right: 2px;
 }
