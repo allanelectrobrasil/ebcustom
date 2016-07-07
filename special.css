@@ -230,5 +230,11 @@ display:none !important;
 [data-cid^="4249648-"] #user-rollover .meta.subscriber.silver .status i {
     background: url('https://cdn.radiant.dj/rcs/icons/radiant/origin_subscriber.png');
 }
+#user-rollover.is-admin.self.expand.chat.id-4249648.role-admin.role-none.role-subscriber
 }
-
+#user-rollover .info .role i.icon-chat-admin {
+    margin-top: 3px;
+}
+#user-rollover.is-admin .info .role span {
+    color: #42a5dc;
+}
