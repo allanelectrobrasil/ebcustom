@@ -127,3 +127,16 @@
     border-radius: 0;
     
 }
+
+#chat-messages .fromID-3851223 .badge-box i,
+#chat-messages  .id-3851223 .badge-box i {
+    background-image: url(http://i.imgur.com/b4p2YRw.gif);
+    background-size: cover;
+    width: 53px;
+    height: 31px;
+    top: 0px;
+    left: -14px;
+    border: none;
+    border-radius: 0;
+    
+}
