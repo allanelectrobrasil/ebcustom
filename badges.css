@@ -1,142 +1,24 @@
-#chat-messages .fromID-4249648 .badge-box i,
-#chat-messages  .id-4249648 .badge-box i {
-    background-image: url(http://i.imgur.com/YYvfXPB.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-
+[data-cid^="4249648-"] .badge-box .bdg {
+    background-image: url("http://i.imgur.com/YYvfXPB.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-4249648 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/YYvfXPB.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
 }
 
-#chat-messages .fromID-3817231 .badge-box i,
-#chat-messages  .id-3817231 .badge-box i {
-    background-image: url(http://31.media.tumblr.com/be6d6c864a4cc2c5c82581a7ae25dc38/tumblr_naunbzBMPF1tf79x0o1_500.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-    
+[data-cid^="4453331-"] .badge-box .bdg {
+    background-image: url("https://i.imgur.com/rXviL4y.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-4453331 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://i.imgur.com/rXviL4y.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
 }
 
-#chat-messages .fromID-4453457 .badge-box i,
-#chat-messages  .id-4453457 .badge-box i {
-    background-image: url(http://i.imgur.com/1Dwfo9m.gif);
-    background-size: cover;
-    width: 31px;
-    height: 39px;
-    top: -8px;
-    left: 0;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-5148176 .badge-box i,
-#chat-messages  .id-5148176 .badge-box i {
-    background-image: url(https://lh5.googleusercontent.com/-R2ag2z6AIJk/U3cd4o67SbI/AAAAAAAAByA/O3f2BHyDgAU/tumblr_mvoz6xgbmf1rlj744o4_250.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-4705414 .badge-box i,
-#chat-messages  .id-4705414 .badge-box i {
-    background-image: url(https://66.media.tumblr.com/8bcfa239d8f3e76f8c002ea4f0ef4d75/tumblr_o8kua3f98v1vnawndo1_500.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-5023528 .badge-box i,
-#chat-messages  .id-5023528 .badge-box i {
-    background-image: url(http://i.imgur.com/VdZEY0i.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-14202282 .badge-box i,
-#chat-messages  .id-14202282 .badge-box i {
-    background-image: url(http://i.imgur.com/LRQytyQ.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-3857431 .badge-box i,
-#chat-messages  .id-3857431 .badge-box i {
-    background-image: url(http://lh5.ggpht.com/_hf9dXh_1X68/TdYBcrHn09I/AAAAAAAADNM/4ZmYZ31Z838/avrilsmile39.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-3925828 .badge-box i,
-#chat-messages  .id-3925828 .badge-box i {
-    background-image: url(https://66.media.tumblr.com/9c00685b9c7fca760d2d1fe3fdfc98d7/tumblr_mk9iltzHX61r2259oo1_r1_500.gif);
-    background-size: cover;
-    width: 41px;
-    height: 30px;
-    top: 0;
-    left: -10px;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-4453331 .badge-box i,
-#chat-messages  .id-4453331 .badge-box i {
-    background-image: url(https://i.imgur.com/rXviL4y.gif);
-    background-size: cover;
-    width: 31px;
-    height: 31px;
-    top: 0;
-    left: 0px;
-    border: none;
-    border-radius: 0;
-    
-}
-
-#chat-messages .fromID-3851223 .badge-box i,
-#chat-messages  .id-3851223 .badge-box i {
-    background-image: url(http://i.imgur.com/b4p2YRw.gif);
-    background-size: cover;
-    width: 53px;
-    height: 31px;
-    top: 0px;
-    left: -14px;
-    border: none;
-    border-radius: 0;
-    
-}
